@@ -1,10 +1,4 @@
 this is first commit file 1
-<<<<<<< c6b799db15c275f58a2b5e021fbc3589c9ca5514
-second commit goodbye world!
-I am in Master now :-)
-very different work
-definitely not the same stuff
-=======
 we are in new branch
 Doing work now
->>>>>>> Doing work now
+More exciting work
